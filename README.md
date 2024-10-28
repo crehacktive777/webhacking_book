@@ -1,10 +1,10 @@
 # 소문난 명강의 웹 해킹 입문
-## 실습 파일 구성
+## 실습 파일 구성 및 설명
 * 총 4개의 디렉터리 구성
-* insecure_board
-* upload_example
-* url_example
-* xss_example
+* insecure_board - 모든 취약점별 실습
+* upload_example - 파일 업로드 취약점 실습
+* url_example - URL 접근 제한 미흡 취약점 실습
+* xss_example - XSS 취약점 실습
 
 ## 실습 파일 설치
 1. 우측 상단 "Code" 초록색 버튼 클릭
