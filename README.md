@@ -1,7 +1,7 @@
 # 소문난 명강의: 크리핵티브의 한 권으로 끝내는 웹 해킹 바이블
 
 ## 실습 과정 가이드
-[[https://github.com/crehacktive777/webhacking_book/raw/refs/heads/main/%5B%EB%B6%80%EB%A1%9D%5D%20%EA%B0%80%EC%83%81%20%ED%99%98%EA%B2%BD%20%EA%B5%AC%EC%B6%95_%ED%81%AC%EB%A6%AC%ED%95%B5%ED%8B%B0%EB%B8%8C%EC%9D%98%20%ED%95%9C%20%EA%B6%8C%EC%9C%BC%EB%A1%9C%20%EB%81%9D%EB%82%B4%EB%8A%94%20%EC%9B%B9%20%ED%95%B4%ED%82%B9%20%EB%B0%94%EC%9D%B4%EB%B8%94.pdf|다운로드]]
+[다운로드](https://github.com/crehacktive777/webhacking_book/raw/refs/heads/main/%5B%EB%B6%80%EB%A1%9D%5D%20%EA%B0%80%EC%83%81%20%ED%99%98%EA%B2%BD%20%EA%B5%AC%EC%B6%95_%ED%81%AC%EB%A6%AC%ED%95%B5%ED%8B%B0%EB%B8%8C%EC%9D%98%20%ED%95%9C%20%EA%B6%8C%EC%9C%BC%EB%A1%9C%20%EB%81%9D%EB%82%B4%EB%8A%94%20%EC%9B%B9%20%ED%95%B4%ED%82%B9%20%EB%B0%94%EC%9D%B4%EB%B8%94.pdf)
 
 ## 실습 파일 구성 및 설명
 * 총 4개의 디렉터리 구성
